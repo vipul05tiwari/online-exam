@@ -9,10 +9,10 @@
 	<name>Online-Exam</name>
 
 	<modules>
-	
-		<!-- AG projects -->
-		<module>activegateway-common</module>
-		<module>activegateway-domain-jpa</module>
+		<module>onlineexam-common</module>
+		<module>onlineexam-domain-jpa</module>
+		<module>onlineexam-service</module>
+		<module>onlineexam-doa</module>
 	</modules>
 	
 	<build>
